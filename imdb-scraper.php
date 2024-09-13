@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: IMDb Scraper
- * Description: Made for veronalabs.
+ * Description: Made for all.
  * Version: 0.0.1
  * Author: codewithah
  * Text Domain: imdb-scraper
