@@ -1,0 +1,9 @@
+/* TODO: add css codes later */
+.movie-info {
+    margin-bottom: 20px;
+}
+
+.movie-info img {
+    max-width: 100%;
+    height: auto;
+}
